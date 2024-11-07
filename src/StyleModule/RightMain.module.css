@@ -1,0 +1,24 @@
+.mainRight {
+  display: flex;
+  flex-direction: column;
+  min-height: 600px;
+  justify-content: space-around;
+}
+
+.textContainer {
+  padding-left: 7%;
+}
+
+.imgStyle {
+  width: 85%;
+  height: 400px;
+}
+
+.imgContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.textStyle {
+  padding-left: 7%;
+}

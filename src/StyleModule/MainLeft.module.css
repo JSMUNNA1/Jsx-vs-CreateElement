@@ -1,0 +1,12 @@
+.MainLeft {
+  padding-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.description {
+  margin-top: 10px;
+  font-size: 36px;
+}
